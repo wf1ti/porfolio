@@ -75,7 +75,7 @@ export function Footer() {
             <div className="flex gap-8">
             {[
               { name: "Telegram", url: "https://t.me/Wfit1" },
-              { name: "GitHub", url: "https://github.com" },
+              { name: "GitHub", url: "https://github.com/wf1ti" },
               { name: "Eshe link", url: "https://twitter.com" },
             ].map((link) => (
               <a
